@@ -1,0 +1,7 @@
+pandas
+streamlit
+sklearn.metrics.pairwise
+PIL
+random
+multiapp
+apps
