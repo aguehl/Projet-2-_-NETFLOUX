@@ -2,6 +2,6 @@ pandas
 streamlit
 scikit-learn
 
-random
+mkl-random
 multiapp
 apps
