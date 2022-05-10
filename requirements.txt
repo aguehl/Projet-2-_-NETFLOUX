@@ -1,6 +1,6 @@
 pandas
 streamlit
-sklearn.metrics.pairwise
+sklearn
 PIL
 random
 multiapp
